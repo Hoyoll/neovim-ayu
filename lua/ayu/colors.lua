@@ -30,7 +30,7 @@ function colors.generate(mirage)
       colors.error = '#FF6666'
       colors.lsp_parameter = '#D3B8F9'
 
-      colors.line = '#171B24'
+      colors.line = '#4951624'
       colors.panel_bg = '#10141c'
       colors.panel_shadow = '#10141c'
       colors.panel_border = '#10141c'
