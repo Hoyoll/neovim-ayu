@@ -31,9 +31,9 @@ function colors.generate(mirage)
       colors.lsp_parameter = '#D3B8F9'
 
       colors.line = '#171B24'
-      colors.panel_bg = '#1C212B'
-      colors.panel_shadow = '#161922'
-      colors.panel_border = '#101521'
+      colors.panel_bg = '#10141c'
+      colors.panel_shadow = '#10141c'
+      colors.panel_border = '#10141c'
       colors.gutter_normal = '#4A505A'
       colors.gutter_active = '#757B84'
       colors.selection_bg = '#274364'
@@ -53,7 +53,7 @@ function colors.generate(mirage)
       colors.warning = '#FFA759'
     else
       colors.accent = '#E6B450'
-      colors.bg = '#0B0E14'
+      colors.bg = '#10141c'
       colors.fg = '#BFBDB6'
       colors.ui = '#565B66'
 
